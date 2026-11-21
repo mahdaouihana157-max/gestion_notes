@@ -7,4 +7,4 @@ def note_max(notes):
 notes = [12, 15, 9, 18]
 
 print("Moyenne :", moyenne(notes))
-print("Note maximale :", note_max(notes))
+print("Note maximale :", note_max(notes)) 
