@@ -1,2 +1,1 @@
-#mon premier projet
-Gestion des notes des étudiants.
+# Mon premier projet : moyenne, note max et médiane
